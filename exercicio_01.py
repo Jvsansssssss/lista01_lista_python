@@ -1,6 +1,6 @@
 # lista com nomes
 
-colegas = ["Ana", "Bruno", "Carlos", "Duda", "Eduardo"]
+colegas = ["Neymar", "Jose", "Rapunzel", "João", "Julia"]
 
 print("Primeiro nome:", colegas[0])
 
